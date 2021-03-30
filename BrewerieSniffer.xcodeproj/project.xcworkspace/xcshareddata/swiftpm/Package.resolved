@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Networking",
+        "repositoryURL": "https://github.com/freshOS/Networking",
+        "state": {
+          "branch": null,
+          "revision": "960867638bdb9d07870b674636326f5baf412ca1",
+          "version": "0.3.2"
+        }
+      },
+      {
+        "package": "Resolver",
+        "repositoryURL": "https://github.com/hmlongco/Resolver.git",
+        "state": {
+          "branch": null,
+          "revision": "e0bcbc721818328c192a1eb22c6a6ca48029e550",
+          "version": "1.4.1"
+        }
+      },
+      {
+        "package": "SwiftUICombineToolBox",
+        "repositoryURL": "https://github.com/lukacs-m/SwiftUICombineToolBox",
+        "state": {
+          "branch": null,
+          "revision": "e86b480eff7ba7b7da3368e583565a84e9dc80d6",
+          "version": "0.0.10"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
